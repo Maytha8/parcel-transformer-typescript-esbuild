@@ -10,8 +10,5 @@
     "@parcel/source-map": "^2.1.1",
     "@parcel/ts-utils": "^2.8.3",
     "esbuild": "^0.17.10"
-  },
-  "devDependencies": {
-    "typescript": "^4.9.5"
   }
 }
